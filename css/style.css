@@ -330,7 +330,7 @@ footer {
   flex-direction: column;
 }
 .tm-main-content.tm-footer-relative footer {
-  position: relative;
+  position: absolute;
   bottom: 0;
   margin-top: 50px;
 }
@@ -404,7 +404,7 @@ p:last-child {
   }
 
   footer {
-    position: relative;
+    position: absolute;
     bottom: 0;
   }
 }
