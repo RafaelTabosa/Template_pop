@@ -91,7 +91,7 @@ p {
 }
 
 .tm-nav-link {
-  color: rgb(0, 8, 11);
+  color: black;
   display: flex;
   flex-direction: column;
   justify-content: center;
