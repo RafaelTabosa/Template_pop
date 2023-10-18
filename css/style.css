@@ -91,7 +91,7 @@ p {
 }
 
 .tm-nav-link {
-  color: rgba(41, 165, 214, 0.952);
+  color: rgb(0, 8, 11);
   display: flex;
   flex-direction: column;
   justify-content: center;
